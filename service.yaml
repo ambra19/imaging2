@@ -1,8 +1,8 @@
-name: imaging
-author: vu-ase
-source: https://github.com/vu-ase/imaging
-version: 1.2.2
-description: Reads an image from a video source (v4l2/sim), processes it and sends it to the controller
+name: imaging2-test
+author: ambra
+source: https://github.com/ambra19/imaging2
+version: 1.0.0
+description: (TEST) Reads an image from a video source (v4l2/sim), processes it and sends it to the controller
 
 commands:
   build: make build

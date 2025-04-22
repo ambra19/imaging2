@@ -36,4 +36,4 @@ configuration:
     value: 480
   - name: img-fps
     type: number
-    value: 30
+    value: 15
